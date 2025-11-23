@@ -1,0 +1,2 @@
+export { designFuturistic } from './designFuturistic';
+
